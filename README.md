@@ -1,4 +1,5 @@
 # Machine Learning Projects
+### By Lorenzo Martinelli
 
 This is a page dedicated to housing all of my Machine Learning Projects ranging from visualizations to EDAs, to larger capstone projects. 
 
